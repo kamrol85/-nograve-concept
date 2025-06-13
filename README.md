@@ -1,5 +1,5 @@
 # -nograve-concept
-![NoGravè Concept](./concept.jpg)
+![NoGravè Concept](./concept.png)
  Futuristic wearable air mobility concept to enable walking in the air.
 ## Features
 - Concept-stage air-walking device
